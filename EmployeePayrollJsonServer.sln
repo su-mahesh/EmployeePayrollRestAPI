@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePayrollJsonServer", "EmployeePayrollJsonServer\EmployeePayrollJsonServer.csproj", "{E8F4167B-F44D-47BD-90BE-7868A163F7EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{BD82708F-8A4A-4262-84F6-F87433ACF537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8F4167B-F44D-47BD-90BE-7868A163F7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F4167B-F44D-47BD-90BE-7868A163F7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F4167B-F44D-47BD-90BE-7868A163F7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F4167B-F44D-47BD-90BE-7868A163F7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD82708F-8A4A-4262-84F6-F87433ACF537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD82708F-8A4A-4262-84F6-F87433ACF537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD82708F-8A4A-4262-84F6-F87433ACF537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD82708F-8A4A-4262-84F6-F87433ACF537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9E07A4D-C199-496A-B5DD-0E75D0BFEEDC}
+	EndGlobalSection
+EndGlobal
